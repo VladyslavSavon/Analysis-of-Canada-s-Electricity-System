@@ -39,6 +39,8 @@ At first I want to know the amount of power capacity and power generation for th
 
 SELECT *
 FROM electricity_capacity_table
-WHERE year = '2016'
+WHERE year = '2016' 
+
+dghjkgfghj
 
 
