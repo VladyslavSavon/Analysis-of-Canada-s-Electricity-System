@@ -37,8 +37,12 @@ Regions of Canada: Province of British Columbia, Province of Alberta, Province o
 
 At first I want to know the amount of power capacity and power generation for the last year (2016).
 
+```
+
 SELECT *
 FROM electricity_capacity_table
 WHERE year = '2016'
+
+```
 
 
